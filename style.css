@@ -1,0 +1,39 @@
+.container{
+    max-width: 15rem;
+    margin: 10rem 0 0 50rem;
+}
+
+.span1{
+    font-size: 55px;
+    margin-left: 180px;;
+}
+
+button{
+    padding:20px;
+    font-size: 20px;
+}
+
+.btns{
+    line-height: 5;
+}
+
+.AC{
+    padding-left: 40px;
+}
+
+.division{
+    padding-left: 35px;
+}
+
+.tally{
+    padding-left: 85px;
+}
+
+input{
+    padding:35px;
+    margin-bottom: 5px;
+    border: 1.5px solid;
+    border-radius:10px;
+}
+    
+
